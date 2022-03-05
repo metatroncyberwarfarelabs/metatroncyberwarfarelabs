@@ -10,7 +10,7 @@
 ### Metatron X Enterprise
 ************************************************************************************************************************
 
-<b>Metatron X enterprise, monitor, model, manage, and mitigate your cyber risk. Powered by metatron cyberwarfare labs.</b>
+<b>Metatron x enterprise, monitor, model, manage, and mitigate your cyber risk. Powered by metatron cyberwarfare labs.</b>
 
 <video src="https://user-images.githubusercontent.com/98597119/155752597-f24c5234-454f-4e56-a222-56b20742914a.mp4" data-canonical-src="https://user-images.githubusercontent.com/98597119/155752597-f24c5234-454f-4e56-a222-56b20742914a.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;"></video>
 
@@ -18,7 +18,7 @@
 ### Metatron X Community
 ************************************************************************************************************************
 
-<b>The Metatron X Community is a turn-key, high performance computing platform designed specifically the Metatron Cyberwarfare Labs for Data Flow and Data Platform.</b>
+<b>The Metatron x Community is a turn-key, high performance computing platform designed specifically the Metatron Cyberwarfare Labs for Data Flow and Data Platform.</b>
 
 ![license](https://img.shields.io/github/license/metatroncyberwarfare/metatron-framework?style=for-the-badge) 
 ![languages](https://img.shields.io/github/languages/count/metatroncyberwarfare/metatron-framework?style=for-the-badge)
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <b>
 
-The Metatron X Community at Data Flow Pipeline with Storage Appliance Hosted:
+The Metatron x community at data flow pipeline with storage appliance hosted:
 
 ![BG_DATA_CloudOOP_4000-300x](https://user-images.githubusercontent.com/98597119/152961089-b362b631-55e5-4f1c-999d-5dd18df773b7.gif)
 
@@ -80,8 +80,8 @@ The Metatron X Community at Data Flow Pipeline with Storage Appliance Hosted:
   * CentOS Linux	Latest Metatron Labs	Supported	64	Bit	Operating	System<br/>
   * Hawkeye	Feature	Details	on Following	Page<br/>
   
-* Metatron X Community Data	Flow and Metatron X Community Data Platform	(HMDP) Bundle Installed	<br/>
-  * Metatron X Community is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/>
+* Metatron x Community Data	Flow and Metatron X Community Data Platform	(HMDP) Bundle Installed	<br/>
+  * Metatron x Community is a GNU General Public License Version 3 as published by the Free Software Foundation.<br/>
   * Configuration	and	Baseline Testing of HCP	by Cluster Engineers<br/>
   
 * Extensive	Onsite	Maintenance	Kit<br/>  
@@ -93,4 +93,3 @@ grow along with your computing needs. <br/>
 ![pssc labs](https://user-images.githubusercontent.com/98597119/152974358-9fce5ada-311a-40c4-a610-780d262a1866.png)
  
 </b> 
-
