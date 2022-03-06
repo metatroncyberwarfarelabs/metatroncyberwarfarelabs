@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### Metatron x community data flow pipeline with storage
 ************************************************************************************************************************
 
-<b>The Metatron x Community is a turn-key, high performance computing platform designed specifically the Metatron Cyberwarfare Labs for Data Flow and Data Platform.</b>
+<b>The Metatron x community is a turn-key, high performance computing platform designed specifically the Metatron Cyberwarfare Labs for Data Flow and Data Platform.</b>
 
 ************************************************************************************************************************
 
