@@ -7,7 +7,7 @@
 <b>Metatron cyberwarfare laboratories are an incubator for research and development of virtual security systems in the United States of America.</b>
 
 ************************************************************************************************************************ 
-### Metatron X community
+### Metatron x community
 ************************************************************************************************************************
 
 <b>Metatron x community, monitor, model, manage, and mitigate your cyber risk. Powered by metatron cyberwarfare labs.</b>
