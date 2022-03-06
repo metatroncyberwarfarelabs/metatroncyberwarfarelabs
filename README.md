@@ -7,18 +7,10 @@
 <b>Metatron cyberwarfare laboratories are an incubator for research and development of virtual security systems in the United States of America.</b>
 
 ************************************************************************************************************************ 
-### Metatron X Enterprise
+### Metatron X community
 ************************************************************************************************************************
 
-<b>Metatron x enterprise, monitor, model, manage, and mitigate your cyber risk. Powered by metatron cyberwarfare labs.</b>
-
-<video src="https://user-images.githubusercontent.com/98597119/155752597-f24c5234-454f-4e56-a222-56b20742914a.mp4" data-canonical-src="https://user-images.githubusercontent.com/98597119/155752597-f24c5234-454f-4e56-a222-56b20742914a.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;"></video>
-
-************************************************************************************************************************ 
-### Metatron X Community
-************************************************************************************************************************
-
-<b>The Metatron x Community is a turn-key, high performance computing platform designed specifically the Metatron Cyberwarfare Labs for Data Flow and Data Platform.</b>
+<b>Metatron x community, monitor, model, manage, and mitigate your cyber risk. Powered by metatron cyberwarfare labs.</b>
 
 ![license](https://img.shields.io/github/license/metatroncyberwarfare/metatron-framework?style=for-the-badge) 
 ![languages](https://img.shields.io/github/languages/count/metatroncyberwarfare/metatron-framework?style=for-the-badge)
@@ -42,6 +34,8 @@ Here are some ideas to get you started:
 ************************************************************************************************************************ 
 ### Metatron X Community Data Flow Pipeline With Storage
 ************************************************************************************************************************
+
+<b>The Metatron x Community is a turn-key, high performance computing platform designed specifically the Metatron Cyberwarfare Labs for Data Flow and Data Platform.</b>
 
 <b>
 
