@@ -1,21 +1,3 @@
-************************************************************************************************************************ 
-### Metatron cyberwarfare labs
-************************************************************************************************************************
-
-![154565609-62ad972a-881a-4887-a71f-5c8b311b4435](https://user-images.githubusercontent.com/65858050/156833928-f4fd3696-9d92-464f-9808-044a364495a2.png)
-
-<b>Metatron cyberwarfare laboratories are an incubator for research and development of virtual security systems in the United States of America.</b>
-
-************************************************************************************************************************ 
-### Metatron x community
-************************************************************************************************************************
-
-<b>Metatron x community, monitor, model, manage, and mitigate your cyber risk. Powered by metatron cyberwarfare labs.</b>
-
-![license](https://img.shields.io/github/license/metatroncyberwarfare/metatron-framework?style=for-the-badge) 
-![languages](https://img.shields.io/github/languages/count/metatroncyberwarfare/metatron-framework?style=for-the-badge)
-![languages](https://img.shields.io/github/languages/top/metatroncyberwarfare/metatron-framework?style=for-the-badge)
-
 <!--
 **metatroncyberwarfarelabs/metatroncyberwarfarelabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,6 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+************************************************************************************************************************ 
+### Metatron cyberwarfare labs
+************************************************************************************************************************
+
+![154565609-62ad972a-881a-4887-a71f-5c8b311b4435](https://user-images.githubusercontent.com/65858050/156833928-f4fd3696-9d92-464f-9808-044a364495a2.png)
+
+<b>Metatron Cyberwarfare Labs is an incubator for research and development of security guard software.</b>
+
+************************************************************************************************************************ 
+### Metatron x community
+************************************************************************************************************************
+
+<b>Metatron x community, monitor, model, manage, and mitigate your cyber risk. Powered by metatron cyberwarfare labs.</b>
+
+![license](https://img.shields.io/github/license/metatroncyberwarfare/metatron-framework?style=for-the-badge) 
+![languages](https://img.shields.io/github/languages/count/metatroncyberwarfare/metatron-framework?style=for-the-badge)
+![languages](https://img.shields.io/github/languages/top/metatroncyberwarfare/metatron-framework?style=for-the-badge)
 
 ************************************************************************************************************************ 
 ### Metatron x community data flow pipeline with storage
