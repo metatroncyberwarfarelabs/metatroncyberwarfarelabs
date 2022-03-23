@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 ### Metatron cyberwarfare
 ************************************************************************************************************************
 
-![156833928-f4fd3696-9d92-464f-9808-044a364495a2V1-B](https://user-images.githubusercontent.com/98597119/159720530-8c88d54c-c178-46ee-8d91-bb8f8f74cd8d.png)
+![159707901-4dc495d7-df35-411c-bec7-f8e1c1c5c820v1](https://user-images.githubusercontent.com/98597119/159742876-5a31a729-fa98-431a-a9a2-098fc30261eb.png)
 
 ************************************************************************************************************************ 
 ### Metatron cyberwarfare labs
 ************************************************************************************************************************
-
-<b>Metatron Cyberwarfare Labs is an incubator for research and development of security guard software.</b>
 
 ![156833928-f4fd3696-9d92-464f-9808-044a364495a2V2](https://user-images.githubusercontent.com/98597119/159719450-bc42ace2-104a-45ba-87e7-4a0c771c93ea.png)
 
