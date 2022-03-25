@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 ![159707901-4dc495d7-df35-411c-bec7-f8e1c1c5c820v1](https://user-images.githubusercontent.com/98597119/159742876-5a31a729-fa98-431a-a9a2-098fc30261eb.png)
 
 ************************************************************************************************************************ 
-### Metatron cyberwarfare Guardians
-************************************************************************************************************************
-
-https://user-images.githubusercontent.com/98597119/159800792-5bf3e2ba-f1ba-4fa2-b405-e44a312ee514.mp4
-
-************************************************************************************************************************ 
 ### Metatron cyberwarfare labs
 ************************************************************************************************************************
 
@@ -40,6 +34,8 @@ https://user-images.githubusercontent.com/98597119/159800792-5bf3e2ba-f1ba-4fa2-
 ![license](https://img.shields.io/github/license/metatroncyberwarfare/metatron-framework?style=for-the-badge) 
 ![languages](https://img.shields.io/github/languages/count/metatroncyberwarfare/metatron-framework?style=for-the-badge)
 ![languages](https://img.shields.io/github/languages/top/metatroncyberwarfare/metatron-framework?style=for-the-badge)
+
+![metron-dashboard](https://user-images.githubusercontent.com/98597119/160142308-5b1ad076-c516-4af6-86c3-b9bd75ce74f2.png)
 
 ************************************************************************************************************************ 
 ### Metatron x community data flow pipeline with storage
